@@ -17,12 +17,12 @@
 - add name and paste link to key
 
 ### Step by step breakdown
-cd
-ls -a
-cd .ssh
-ls
-ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
-AgboLamina
-(enter) x2 (no passcode)
+- cd
+- ls -a
+- cd .ssh
+- ls
+- ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+- AgboLamina
+- (enter) x2 (no passcode)
 
 ### It is essential and the best practice to write descriptive name eg. Agbo-jenkins
