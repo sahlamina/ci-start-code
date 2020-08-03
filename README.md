@@ -26,3 +26,6 @@
 - (enter) x2 (no passcode)
 
 ### It is essential and the best practice to write descriptive name eg. Agbo-jenkins
+
+- The key we generated is secure unless we grant private key access (it is the same as having a key for a padlock
+- The one we used for github is a like a padlock and the key we created will give access to it
